@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Majors">
+        <item>Select Major</item>
+        <item>Computer Science</item>
+        <item>Mechanical Engineering</item>
+        <item>Economics</item>
+        <item>International Trade</item>
+        <item>Civil Engineering</item>
+        <item>Chinese Language</item>
+    </string-array>
+</resources>

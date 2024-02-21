@@ -1,0 +1,39 @@
+<resources>
+<style name="viewParent">
+    <item name="android:layout_width">wrap_content</item>
+    <item name="android:layout_height">wrap_content</item>
+</style>
+
+<style name="viewParent.headerText">
+<item name="android:textColor">@color/ColorDefaultNote</item>
+<item name="android:textSize">@dimen/headerTextSize</item>
+<item name="android:textStyle">bold</item>
+</style>
+
+<style name="viewParent.headerText.NoMode">
+<item name="android:textColor">@color/black</item>
+</style>
+
+<style name="parent">
+<item name="android:layout_width">match_parent</item>
+<item name="android:layout_height">wrap_content</item>
+</style>
+
+<style name="modifiedEditText" parent="parent">
+<item name="android:textSize">@dimen/newsMoreTextSize</item>
+<item name="android:backgroundTint">@color/white</item>
+</style>
+
+<style name="loginButton" parent="viewParent">
+<!--<item name="android:background">@drawable/button_background_blue</item>-->
+<item name="android:textColor">@color/white</item>
+<item name="android:textStyle">bold</item>
+</style>
+    <style name="Active">
+        <item name="android:textColor">@color/green</item>
+    </style>
+
+    <style name="Inactive">
+        <item name="android:textColor">@android:color/transparent</item>
+    </style>
+    </resources>
