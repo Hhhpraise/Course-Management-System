@@ -17,6 +17,9 @@ import com.depiro.courseselect.R;
 import com.depiro.courseselect.SelectMode;
 import com.google.android.material.bottomnavigation.BottomNavigationView;
 
+/*
+This code is for the profile
+ */
 public class Profile extends AppCompatActivity {
     BottomNavigationView bottomNavigationView;
     CardView logout;

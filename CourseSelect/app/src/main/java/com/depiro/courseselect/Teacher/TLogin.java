@@ -20,6 +20,10 @@ import com.vishnusivadas.advanced_httpurlconnection.PutData;
 import org.json.JSONException;
 import org.json.JSONObject;
 
+
+/*
+This code handles the teacher login page and activities...
+ */
 public class TLogin extends AppCompatActivity {
     private static final String IS_LOGGED_IN = "isLogIn";
     TextView switchToReg;

@@ -14,6 +14,7 @@ import com.depiro.courseselect.Teacher.TLogin;
 public class SelectMode extends AppCompatActivity {
     CardView teacher, student;
     private static String IS_LOGGED_IN = "isLogIn";
+    //update your app URL ...
     public static String APP_URL = "http://192.168.1.12/CourseSelectApp/";
     @Override
     protected void onCreate(Bundle savedInstanceState) {

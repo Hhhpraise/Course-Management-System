@@ -11,6 +11,9 @@ import android.view.View;
 import com.depiro.courseselect.Student.StudentDashboard;
 import com.depiro.courseselect.Teacher.Dashboard;
 
+/*
+This code is for the Splash page
+ */
 public class Splash extends AppCompatActivity {
 
     CardView start;

@@ -26,6 +26,9 @@ import org.json.JSONObject;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
+/*
+This code Handles the Sign up function for students ...
+ */
 public class Signup extends AppCompatActivity {
     Spinner spinner;
     TextView switchToLogin;

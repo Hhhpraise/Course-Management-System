@@ -25,6 +25,9 @@ import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.Date;
 
+/*
+This code is for the Course detail...
+ */
 public class CourseDetail extends AppCompatActivity {
     TextView course, sCount;
     TextView currentDay;

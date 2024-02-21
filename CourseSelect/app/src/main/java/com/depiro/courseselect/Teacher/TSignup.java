@@ -24,6 +24,10 @@ import org.json.JSONObject;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
+
+/*
+This code handles the Teacher Signup Process
+ */
 public class TSignup extends AppCompatActivity{
     Spinner spinner;
     TextView switchToLogin;

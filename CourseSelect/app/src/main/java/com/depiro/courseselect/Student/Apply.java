@@ -31,7 +31,9 @@ import org.json.JSONException;
 import org.json.JSONObject;
 
 import java.util.ArrayList;
-
+/*
+This code is for the page where students can apply to register for the courses available to their major
+ */
 public class Apply extends AppCompatActivity implements MyClickInterface {
     BottomNavigationView bottomNavigationView;
     TextView major;

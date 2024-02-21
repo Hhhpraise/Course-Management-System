@@ -20,7 +20,9 @@ import com.vishnusivadas.advanced_httpurlconnection.PutData;
 import org.json.JSONException;
 import org.json.JSONObject;
 
-
+/*
+This code is for the Login function for the students
+ */
 public class Login extends AppCompatActivity {
     TextView switchToReg;
     CardView loginBtn;

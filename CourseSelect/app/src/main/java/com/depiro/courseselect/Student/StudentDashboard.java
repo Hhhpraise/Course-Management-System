@@ -28,6 +28,9 @@ import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.Date;
 
+/*
+This code is for the Student Dashboard...
+ */
 public class StudentDashboard extends AppCompatActivity {
     BottomNavigationView bottomNavigationView;
     TextView name, major;

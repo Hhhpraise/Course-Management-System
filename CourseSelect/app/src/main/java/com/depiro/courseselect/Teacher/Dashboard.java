@@ -28,7 +28,9 @@ import org.json.JSONObject;
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.Date;
-
+/*
+This code is for the dashboard
+ */
 public class Dashboard extends AppCompatActivity implements MyClickInterface {
     BottomNavigationView bottomNavigationView;
     TextView name, major;

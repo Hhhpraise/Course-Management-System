@@ -21,6 +21,9 @@ import com.vishnusivadas.advanced_httpurlconnection.PutData;
 import org.json.JSONException;
 import org.json.JSONObject;
 
+/*
+This code is for the teacher to setup and register new courses
+ */
 public class Setup extends AppCompatActivity {
     BottomNavigationView bottomNavigationView;
     EditText course, hour;
