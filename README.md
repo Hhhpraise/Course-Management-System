@@ -7,8 +7,6 @@ Built with Java &amp; PHP, simplifies course registration &amp; management for s
 ### App Images
 
 ## Installation
-
-Instructions on how to install the application.
 ### Installation Guide for the Android Application
 
 To get this application up and running, follow the steps outlined below. Ensure you have a basic understanding of software development and database management.
@@ -32,7 +30,7 @@ To get this application up and running, follow the steps outlined below. Ensure 
 3. **Clone/Download the Project**
    - If the project is hosted on a version control platform like GitHub, use Git to clone the project to your local machine. Alternatively, download the project ZIP and extract it.
    ```bash
-   git clone [project-url]
+   git clone [https://github.com/praise-arowolo/Course-Management-System.git]
    ```
 
 4. **Open the Project in Android Studio**
