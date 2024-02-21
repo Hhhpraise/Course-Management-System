@@ -5,7 +5,12 @@ Built with Java &amp; PHP, simplifies course registration &amp; management for s
 ## Overview
 
 ### App Images
+![Example Image](Images/signup.png)
+![Example Image](Images/registration.png)
+![Example Image](Images/setup_course.png)
+![Example Image](Images/dashboard.png)
 ![Example Image](Images/profile.png)
+
 
 ## Installation
 ### Installation Guide for the Android Application
